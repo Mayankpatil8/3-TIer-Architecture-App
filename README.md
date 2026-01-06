@@ -56,6 +56,7 @@ Created a custom **VPC with Public & Private Subnets**, Internet Gateway, and NA
 - Launched **Amazon RDS / Aurora MySQL**
 - Created database and table
 <img width="1919" height="1029" alt="rds" src="https://github.com/user-attachments/assets/53986f51-160d-48d2-bd79-595422474f48" />
+<img width="1919" height="1027" alt="database" src="https://github.com/user-attachments/assets/03cd26b5-e636-4c4e-a6aa-855170896ebc" />
 
 
 ### ✅ Step 4: Application Tier Setup
@@ -71,15 +72,15 @@ Created a custom **VPC with Public & Private Subnets**, Internet Gateway, and NA
 ### ✅ Step 5: Internal Load Balancer (App Tier)
 
 - Created **Internal Application Load Balancer**  
-- Registered App Tier EC2 in Target Group  
-<img width="1912" height="1022" alt="target group" src="https://github.com/user-attachments/assets/4b1d205c-5b21-4de2-a069-64f20a3ad063" />
+- Registered App Tier EC2 in Target Group
 <img width="1919" height="1024" alt="load balance" src="https://github.com/user-attachments/assets/8ed9a0e0-3620-4653-9580-c0b028133630" />
+<img width="1912" height="1022" alt="target group" src="https://github.com/user-attachments/assets/4b1d205c-5b21-4de2-a069-64f20a3ad063" />
 
 
 ### ✅ Step 6: Application Testing
 
 - Opened Web Tier public IP  
 - Inserted data into UI  
-- Verified records in RDS  
-<img width="1918" height="1033" alt="o 2" src="https://github.com/user-attachments/assets/a3bd4d33-3130-4807-9be3-0611fb6c567f" />
+- Verified records in RDS
 <img width="1919" height="1026" alt="o 1" src="https://github.com/user-attachments/assets/91237853-041a-4aa3-801d-23d847b7d6e6" />
+<img width="1918" height="1033" alt="o 2" src="https://github.com/user-attachments/assets/a3bd4d33-3130-4807-9be3-0611fb6c567f" />
